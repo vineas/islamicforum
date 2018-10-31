@@ -1,7 +1,7 @@
 #bgrnd {
   text-align: center;
   color: white;
-  background-image: url("file:///D:/Alvienas%20Yandika/Documents/KULIAH/Semester%205/PRakt.%20PAW/Tugas%20Besar/Islamic%20Forum/img/hdr.jpg");
+  background-image: url("../img/hdr.jpg");
   background-position: right bottom, left top;
   background-repeat: no-repeat, repeat;
   padding: 15px;
