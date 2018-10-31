@@ -7,6 +7,18 @@
   padding: 15px;
 }
 
+#headerabout{
+	 text-align: center;
+  color: white;
+  background-image: url("../img/headerabout.png");
+  background-position: right bottom, left top;
+  background-repeat: no-repeat, repeat;
+  padding: 15px;
+
+
+}
+
+
 .pemisah-btnnav{
     margin-left: 20px;
     margin-right: 20px;
